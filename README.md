@@ -1,5 +1,5 @@
 # Exploratory-data-analysis-on-retail-data
-### 1. Described data to answer key questions to uncover insights
+### 1. Described data to answer key questions to uncover insights using python lib.
 ### 2. Gained valuable insights that will help improve online retail performance
 ### 3. Provided analytic insights and data-driven recommendations
 ## the data set on which worked contains the following columns:
